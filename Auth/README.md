@@ -47,5 +47,4 @@
 - `PUT /api/users/:id` → Update user
 - `DELETE /api/users/:id` → Delete user
 
-## License
-This project is licensed under the MIT License.
+
